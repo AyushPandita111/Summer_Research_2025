@@ -1,0 +1,46 @@
+ModelType,Dataset,GPU,Power,Inference Time
+BERT,ag news,NVIDIA GeForce GTX 1650,46.81,92.91
+BERT,yelp polarity,NVIDIA GeForce GTX 1650,40.83,765.2
+BERT,imdb,NVIDIA GeForce GTX 1650,38.91,534.8
+ResNet18,cifar 10,NVIDIA GeForce GTX 1650,26.65,234.6
+ResNet18,cifar 50,NVIDIA GeForce GTX 1650,36.77,654.34
+ResNet18,cifar 100,NVIDIA GeForce GTX 1650,66.75,877.32
+Translatotron,Google Speech Commands,NVIDIA GeForce GTX 1650,45.3,116
+Translatotron,LibriSpeech,NVIDIA GeForce GTX 1650,84.2,656.76
+Translatotron,Mozilla CommonVoice,NVIDIA GeForce GTX 1650,76.8,766.33
+BERT,ag news,NVIDIA GeForce RTX 5090,36.7,344
+BERT,yelp polarity,NVIDIA GeForce RTX 5090,78.63,185.87
+BERT,imdb,NVIDIA GeForce RTX 5090,76.6,200.76
+ResNet18,cifar 10,NVIDIA GeForce RTX 5090,67.45,300.34
+ResNet18,cifar 50,NVIDIA GeForce RTX 5090,66.5,544.5
+ResNet18,cifar 100,NVIDIA GeForce RTX 5090,33.2,766.34
+Translatotron,Google Speech Commands,NVIDIA GeForce RTX 5090,55.3,396.4
+Translatotron,LibriSpeech,NVIDIA GeForce RTX 5090,78.45,140.32
+Translatotron,Mozilla CommonVoice,NVIDIA GeForce RTX 5090,43.6,340.2
+BERT,ag news,NVIDIA GeForce RTX 5080,45.4,143.34
+BERT,yelp polarity,NVIDIA GeForce RTX 5080,23.66,76.22
+BERT,imdb,NVIDIA GeForce RTX 5080,54.23,711.33
+ResNet18,cifar 10,NVIDIA GeForce RTX 5080,31.45,356.4
+ResNet18,cifar 50,NVIDIA GeForce RTX 5080,13.23,534.5
+ResNet18,cifar 100,NVIDIA GeForce RTX 5080,165.23,34.87
+Translatotron,Google Speech Commands,NVIDIA GeForce RTX 5080,126,34.33
+Translatotron,LibriSpeech,NVIDIA GeForce RTX 5080,11.45,1000
+Translatotron,Mozilla CommonVoice,NVIDIA GeForce RTX 5080,87.55,560
+BERT,ag news,NVIDIA GeForce RTX 4080,98.34,323
+BERT,yelp polarity,NVIDIA GeForce RTX 4080,111,533.2
+BERT,imdb,NVIDIA GeForce RTX 4080,78.98,65.45
+ResNet18,cifar 10,NVIDIA GeForce RTX 4080,43,276.34
+ResNet18,cifar 50,NVIDIA GeForce RTX 4080,55,1100
+ResNet18,cifar 100,NVIDIA GeForce RTX 4080,31,99.45
+Translatotron,Google Speech Commands,NVIDIA GeForce RTX 4080,13,10
+Translatotron,LibriSpeech,NVIDIA GeForce RTX 4080,1,12
+Translatotron,Mozilla CommonVoice,NVIDIA GeForce RTX 4080,78,6
+BERT,ag news,AMD Ryzen 5,67.56,150.76
+BERT,yelp polarity,AMD Ryzen 5,111,67.87
+BERT,imdb,AMD Ryzen 5,123.88,98.76
+ResNet18,cifar 10,AMD Ryzen 5,31.87,657.76
+ResNet18,cifar 50,AMD Ryzen 5,87.76,606.98
+ResNet18,cifar 100,AMD Ryzen 5,130,349.86
+Translatotron,Google Speech Commands,AMD Ryzen 5,13,998.56
+Translatotron,LibriSpeech,AMD Ryzen 5,65.76,147
+Translatotron,Mozilla CommonVoice,AMD Ryzen 5,71,1865.87
